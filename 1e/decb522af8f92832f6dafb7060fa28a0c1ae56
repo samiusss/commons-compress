@@ -1,0 +1,50 @@
+src/main/java/org/apache/commons/compress/archivers/AbstractArchiveBuilder.java
+  s_1656e9f4e4543f::t_a6577ca7def8b9 36-37,47-53,65
+  s_1656e9f4e4543f::t_abeff88a594fda 54,66-86
+  s_1656e9f4e4543f::t_cfe1e9e271b879 55
+src/main/java/org/apache/commons/compress/utils/ArchiveUtils.java
+  s_1656e9f4e4543f::t_67602dbb2436b2 39-51
+  s_1656e9f4e4543f::t_e629908e7b4fa1 38
+src/changes/changes.xml
+  s_1656e9f4e4543f::t_f2989f531a74fe 243
+src/main/java/org/apache/commons/compress/archivers/ArchiveInputStream.java
+  s_1656e9f4e4543f::t_f25416a4585acb 28,101-104,128,144,183-197
+src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java
+  s_1656e9f4e4543f::t_e8a1c185a6cebb 379
+src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java
+  s_1656e9f4e4543f::t_13b5afe41bda16 302
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java
+  s_1656e9f4e4543f::t_a36974547f9542 340
+src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java
+  s_1656e9f4e4543f::t_d315309c216294 216
+src/main/java/org/apache/commons/compress/archivers/lha/LhaArchiveInputStream.java
+  s_1656e9f4e4543f::t_dd11cdbd0cc348 353
+src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java
+  s_1656e9f4e4543f::t_8398c864ccf2fc 626-627,634,1450
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java
+  s_1656e9f4e4543f::t_2bd883bd1d7e70 557
+src/main/java/org/apache/commons/compress/archivers/tar/TarFile.java
+  s_1656e9f4e4543f::t_43bd35e2ffd122 198
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java
+  s_1656e9f4e4543f::t_3794697f8874ba 951
+src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java
+  s_1656e9f4e4543f::t_c5e19d8aa26212 735-736,754,1545
+src/test/java/org/apache/commons/compress/archivers/MaxEntriesTest.java
+  s_1656e9f4e4543f::t_b6a919c077516e 1-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1edecb522af8f92832f6dafb7060fa28a0c1ae56",
+  "prompts": {},
+  "sessions": {
+    "s_1656e9f4e4543f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10494d68-82c1-411f-af39-7b2133fe285d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Sami Sabir <81644829+samiusss@users.noreply.github.com>"
+    }
+  }
+}
